@@ -5,7 +5,7 @@
 	<artifactId>myweb</artifactId>
 	<packaging>wa
 	<name>Java Home myweb</name>r</packaging>
-	<version>8.3.4-SNAPSHOT</version>
+	<version>8.3.5-SNAPSHOT</version>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
