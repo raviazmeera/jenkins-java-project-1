@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.javahome</groupId>
 	<artifactId>myweb</artifactId>
-	<packaging>wa
-	<name>Java Home myweb</name>r</packaging>
-	<version>8.3.5-SNAPSHOT</version>
+	<packaging>war</packaging>
+	<version>8.3.2-SNAPSHOT</version>
+	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
